@@ -228,3 +228,11 @@ Start your journey with [Module 1: Foundation - Understanding Hook Mechanics](mo
 **Questions?** Check the [FAQ](docs/faq.md) or [Debugging Guide](docs/debugging-guide.md)
 
 Happy hooking! 🎣
+
+---
+
+## Support This Project
+
+If you found this useful, please **star the repo** — it helps others discover it!
+
+[![Star on GitHub](https://img.shields.io/github/stars/MushroomFleet/vscode-cline-hooks-tutorial?style=social)](https://github.com/MushroomFleet/vscode-cline-hooks-tutorial)
